@@ -5,9 +5,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #FAF8F0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App {
+  text-align: center;
 }
+
+h2 {
+  font-family: Verdana, sans-serif;
+  font-size: x-large;
+  width: 50%;
+  margin: auto;
+  margin-top: 3em;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: large;
+}
+
+.button {
+  margin-top: 7em;
+  border-radius: 8px;
+  padding: .5em;
+  text-align: center;
+  background-color: #FAF8F0;
+  color: #595956;
+  font-size: large;
+  border: 0px;
+  width: 9em;
+  font-family: Verdana, sans-serif;
+  box-shadow: 0px 1px 5px 0px #B5B4AE;
+}
+
+.button:hover {
+  background-color: #F2F0E9;
+}
+
+
