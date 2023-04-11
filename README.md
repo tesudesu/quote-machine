@@ -1,5 +1,10 @@
 ## Quote Machine
 
-Application made from scratch using knowledge of HTML, CSS, and JavaScript (React)
+Web application: https://tesudesu.github.io/quote-machine/
 
-**Demo:** https://tesudesu.github.io/quote-machine/
+Generates a random quote from my collection. 
+Completed towards freeCodeCamp Front End Development Libraries certification.
+
+Technologies: HTML, vanilla CSS, React, create-react-app
+
+Designed and coded by me :smiley:
